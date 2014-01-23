@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-projector", "app-projector\app-projector.csproj", "{8BB77284-FD03-45AA-B57B-80280D9AB53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJLink", "..\PJLink\PJLink\PJLink.csproj", "{7C7E83DB-47B5-476D-9F0D-151F01051E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB77284-FD03-45AA-B57B-80280D9AB53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB77284-FD03-45AA-B57B-80280D9AB53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB77284-FD03-45AA-B57B-80280D9AB53E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8BB77284-FD03-45AA-B57B-80280D9AB53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB77284-FD03-45AA-B57B-80280D9AB53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB77284-FD03-45AA-B57B-80280D9AB53E}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Debug|x86.ActiveCfg = Debug|x86
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Debug|x86.Build.0 = Debug|x86
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Release|x86.ActiveCfg = Release|x86
+		{7C7E83DB-47B5-476D-9F0D-151F01051E07}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

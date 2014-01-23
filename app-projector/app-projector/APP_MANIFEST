@@ -1,0 +1,13 @@
+﻿APP_MANIFEST {
+    "version": "0.1",
+    "name": "projector_app",
+    "displayName": "Projector",
+    "instanceId" : "main_projector",
+    "capabilities": {
+        "video" : "1.0.0"
+    },
+    "API": "0",
+    "description": "Projection on the Main Projector",
+    "dependencies": {
+	}
+}
